@@ -13,4 +13,5 @@ const journalModule = {
     state
 }
 
+
 export default journalModule

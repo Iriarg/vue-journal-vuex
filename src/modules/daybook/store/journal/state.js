@@ -3,24 +3,22 @@ export default () => ({
     isLoading: true,
     entries: [
         {
-            id: new Date().getTime(),
-            date: new Date().toDateString,
-            text: 'Est mollit dolor qui dolor culpa quis. Excepteur reprehenderit deserunt qui amet labore occaecat do labore velit quis elit pariatur veniam cupidatat. Dolore amet do cupidatat ea laborum nisi consequat. Est voluptate commodo veniam voluptate occaecat elit incididunt labore. Lorem quis amet eiusmod magna. Reprehenderit consectetur Lorem commodo dolore proident est eiusmod sint cupidatat.',
-            picture: null,
+            id: '1', // 12371298317892
+            date: new Date().toDateString(), // sat 23, julio
+            text: 'Minim exercitation ad nulla occaecat eiusmod qui enim amet voluptate incididunt esse. Consequat aute cillum laborum in. Est ullamco cillum aute do consequat culpa do non est consequat anim aliqua. Proident nostrud aute sit nisi velit. Tempor officia mollit quis eu aute deserunt laborum est ullamco minim. Do consectetur irure eu dolore reprehenderit dolor qui fugiat aliquip enim qui duis nisi sit. Aliqua velit non nostrud reprehenderit aliquip exercitation anim tempor sint irure aliquip.',
+            picture: null, // https://
         },
         {
-            id: new Date().getTime() + 1000,
-            date: new Date().toDateString,
-            text: 'Aute excepteur id irure esse culpa tempor nisi labore do ad consequat in do. Cupidatat enim aute nulla ex nostrud minim aliquip do velit minim irure id. Velit do reprehenderit mollit esse anim culpa officia adipisicing et ipsum et laboris aliqua commodo. Commodo nisi duis mollit sint tempor consequat cillum.',
-            picture: null,
+            id: '2', // 12371298317892
+            date: new Date().toDateString(), // sat 23, julio
+            text: 'Voluptate culpa sit ea nisi labore amet fugiat cupidatat duis culpa ex adipisicing enim quis. Ea aliquip laboris Lorem do irure amet qui fugiat. Officia laboris consectetur sint mollit est est aute mollit ut labore quis id do.',
+            picture: null, // https://
         },
         {
-            id: new Date().getTime() + 2000,
-            date: new Date().toDateString,
-            text: 'Consequat nostrud irure aliquip reprehenderit nulla anim magna quis velit ipsum ad culpa duis. Esse incididunt adipisicing adipisicing excepteur sint. Nisi eu veniam anim labore minim occaecat commodo non aliqua ipsum commodo et.',
-            picture: null,
-        }
-
-
+            id: '3', // 12371298317892
+            date: new Date().toDateString(), // sat 23, julio
+            text: 'Fugiat consequat consectetur deserunt esse labore proident sit cupidatat nisi commodo eiusmod occaecat occaecat. Aute dolore voluptate ut id reprehenderit cupidatat cillum. Duis nisi magna est fugiat ut eu. Veniam consectetur in nulla officia eiusmod qui ad pariatur culpa eiusmod duis sint Lorem sit. Sunt proident veniam culpa labore sit enim ad ad.',
+            picture: null, // https://
+        },
     ]
 })
